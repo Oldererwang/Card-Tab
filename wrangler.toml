@@ -1,2 +1,3 @@
 name = "tab" # 在 Cloudflare UI 中设置的名字会覆盖这个
 main = "workers.js"        # 明确告诉 Cloudflare 入口文件是这个
+compatibility_date = "2025-05-06" 
